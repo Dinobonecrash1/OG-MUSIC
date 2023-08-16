@@ -193,17 +193,17 @@ async def start_comm(client, message: Message, _):
         if config.START_IMG_URL:
             try:
                 await message.reply_photo(
-        photo=f"https://graph.org/file/af56aeefb7e9570dfcb39.png",
+        photo=f"https://graph.org/file/e460c8a1253f5fdf57435.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐃𝐢𝐥𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡](https://t.me/og_dakku)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐃𝐢𝐥𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡](https://t.me/og_baghi)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐎𝐆 𝐍𝐞𝐭𝐰𝐨𝐫𝐤](https://t.me/OGsNetwork)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/ogsupportchatt)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐎𝐠 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/ogsupportchatt)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [Zenitsu_AF](https://t.me/Zenitsu_AF)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [Zenitsu_AF](https://t.me/Zenitsu_AF)
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [Guardian](https://t.me/guardians_Bot_Updates)
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/Anime_Chat_Guardians)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [Chat](https://t.me/Anime_Chat_Guardians)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -224,17 +224,17 @@ async def start_comm(client, message: Message, _):
                   )
             except:
                 await message.reply_photo(
-        photo=f"https://graph.org/file/af56aeefb7e9570dfcb39.png",
+        photo=f"https://graph.org/file/e460c8a1253f5fdf57435.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐃𝐢𝐥𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡](https://t.me/og_dakku)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐃𝐢𝐥𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡](https://t.me/og_baghi)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐎𝐆 𝐍𝐞𝐭𝐰𝐨𝐫𝐤](https://t.me/OGsNetwork)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/ogsupportchatt)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐎𝐠 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/ogsupportchatt)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [Zenitsu_AF](https://t.me/Zenitsu_AF)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [Zenitsu_AF](https://t.me/Zenitsu_AF)
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [Guardian](https://t.me/guardians_Bot_Updates)
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/Anime_Chat_Guardians)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐂𝐡𝐚𝐭](https://t.me/Anime_Chat_Guardians)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -261,11 +261,11 @@ async def start_comm(client, message: Message, _):
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐃𝐢𝐥𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡](https://t.me/og_dakku)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐃𝐢𝐥𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡](https://t.me/og_baghi)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐎𝐆 𝐍𝐞𝐭𝐰𝐨𝐫𝐤](https://t.me/OGsNetwork)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/ogsupportchatt)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐎𝐠 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/ogsupportchatt)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [Zenitsu_AF](https://t.me/Zenitsu_AF)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [Zenitsu_AF](https://t.me/Zenitsu_AF)
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [Guardian](https://t.me/Anime_Chat_Guardians)
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭](https://t.me/Anime_Chat_Guardians)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐂𝐡𝐚𝐭](https://t.me/Anime_Chat_Guardians)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
